@@ -25,7 +25,8 @@ You can access the live application here:
 ### 🛠️ Technology Stack
 * **Frontend:** [Streamlit](https://streamlit.io/) — Interactive UI and web hosting.
 * **Backend & AI Logic:** [Google Gemini 2.5 Flash](https://ai.google.dev/) — Multimodal AI engine for artifact analysis.
-* **Core Libraries:** * `google-genai`: Official SDK for AI communication.
+* **Core Libraries:**
+    * `google-genai`: Official SDK for AI communication.
     * `Pillow`: Image processing and handling.
     * `python-dotenv`: Management of environment variables and security.
 
